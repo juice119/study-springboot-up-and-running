@@ -1,2 +1,7 @@
-greeting-name: Dakota
-greeting-coffee: ${greeting-name} is drinking cafe Cereza
+greeting:
+  name: Dakota
+  coffee: ${greeting.name} is drinking cafe Cereza
+
+droid:
+  id: BB-8
+  description: Small, rolling android. Probably doesn't drink coffee.
